@@ -2,11 +2,10 @@
 <h3 align="center">Business Automation Developer | Former Financial Controller</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"</a> •
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">LindIn</a> •
   <a href="https://drive.google.com/file/d/18OXrjpgSfs0K5RorFoQiiczgFldwUovJ/view?usp=sharing">Resume</a> •
   <a href="mailto:kamran.haider@bizskillpro.pk">Email</a>
 </p>
-
 ---
 
 ### 👨‍💻 My Journey: From Finance to Full-Stack Automation
