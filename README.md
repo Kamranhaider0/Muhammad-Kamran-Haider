@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">Linkedin</a> •
   <a href="https://drive.google.com/file/d/18OXrjpgSfs0K5RorFoQiiczgFldwUovJ/view?usp=sharing">Resume</a> •
-  <a href="mailto:kamran.haider@bizskillpro.pk">Email</a>
+  <a href="mailto:kamranhaider0@gmail.com">Email</a>
 </p>
 ---
 
